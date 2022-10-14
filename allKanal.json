@@ -1,0 +1,50 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id_category": 1,
+            "name_category": "Pasar",
+            "desc_category": null
+        },
+        {
+            "id_category": 2,
+            "name_category": "Finansial",
+            "desc_category": null
+        },
+        {
+            "id_category": 3,
+            "name_category": "Data & Analisis",
+            "desc_category": null
+        },
+        {
+            "id_category": 4,
+            "name_category": "Ekonomi",
+            "desc_category": null
+        },
+        {
+            "id_category": 5,
+            "name_category": "Industri",
+            "desc_category": null
+        },
+        {
+            "id_category": 6,
+            "name_category": "Entrpreneurship",
+            "desc_category": null
+        },
+        {
+            "id_category": 7,
+            "name_category": "Varia",
+            "desc_category": null
+        },
+        {
+            "id_category": 8,
+            "name_category": "Rileks",
+            "desc_category": null
+        },
+        {
+            "id_category": 9,
+            "name_category": "Opini",
+            "desc_category": null
+        }
+    ]
+}

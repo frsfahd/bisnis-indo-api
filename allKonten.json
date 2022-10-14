@@ -1,0 +1,38 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id_content": 1,
+            "author": "Fulan bin Fulan",
+            "subcategory": 2,
+            "title": "Title One",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget.",
+            "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies. Diam ut venenatis tellus in metus. Aliquam malesuada bibendum arcu vitae elementum curabitur. Eget est lorem ipsum dolor. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Egestas egestas fringilla phasellus faucibus scelerisque. Consectetur a erat nam at lectus urna duis convallis convallis. Aliquet nibh praesent tristique magna sit amet. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Sed risus pretium quam vulputate dignissim suspendisse in. Eget aliquet nibh praesent tristique magna sit amet purus. Orci sagittis eu volutpat odio. Convallis convallis tellus id interdum velit. Neque vitae tempus quam pellentesque nec nam. Sit amet commodo nulla facilisi nullam. Pellentesque habitant morbi tristique senectus et. Purus viverra accumsan in nisl nisi scelerisque.",
+            "image": null,
+            "likes": 10,
+            "created_at": "2022-10-10T12:10:25.000Z"
+        },
+        {
+            "id_content": 2,
+            "author": "Fulanah binti Fulan",
+            "subcategory": 2,
+            "title": "Title Two",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna et pharetra pharetra massa massa ultricies mi quis.",
+            "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies. Diam ut venenatis tellus in metus. Aliquam malesuada bibendum arcu vitae elementum curabitur. Eget est lorem ipsum dolor. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Egestas egestas fringilla phasellus faucibus scelerisque. Consectetur a erat nam at lectus urna duis convallis convallis. Aliquet nibh praesent tristique magna sit amet. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Sed risus pretium quam vulputate dignissim suspendisse in. Eget aliquet nibh praesent tristique magna sit amet purus. Orci sagittis eu volutpat odio. Convallis convallis tellus id interdum velit. Neque vitae tempus quam pellentesque nec nam. Sit amet commodo nulla facilisi nullam. Pellentesque habitant morbi tristique senectus et. Purus viverra accumsan in nisl nisi scelerisque.",
+            "image": null,
+            "likes": 3,
+            "created_at": "2022-10-12T12:10:25.000Z"
+        },
+        {
+            "id_content": 3,
+            "author": "Someone",
+            "subcategory": 6,
+            "title": "Title Three",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna et pharetra pharetra massa massa ultricies mi quis.",
+            "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies. Diam ut venenatis tellus in metus. Aliquam malesuada bibendum arcu vitae elementum curabitur. Eget est lorem ipsum dolor. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Egestas egestas fringilla phasellus faucibus scelerisque. Consectetur a erat nam at lectus urna duis convallis convallis. Aliquet nibh praesent tristique magna sit amet. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Sed risus pretium quam vulputate dignissim suspendisse in. Eget aliquet nibh praesent tristique magna sit amet purus. Orci sagittis eu volutpat odio. Convallis convallis tellus id interdum velit. Neque vitae tempus quam pellentesque nec nam. Sit amet commodo nulla facilisi nullam. Pellentesque habitant morbi tristique senectus et. Purus viverra accumsan in nisl nisi scelerisque.",
+            "image": null,
+            "likes": 7,
+            "created_at": "2022-10-14T12:10:25.000Z"
+        }
+    ]
+}

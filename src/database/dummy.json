@@ -1,0 +1,31 @@
+{
+    "kanal": [
+        {
+            "id": 1,
+            "url": "url satu",
+            "name": "kanal satu",
+            "desc": "deskripsi kanal satu",
+            "image": "img1",
+            "created_at": "4/20/2022, 2:21:56 PM",
+            "updated_at": "4/20/2022, 2:21:56 PM"
+        },
+        {
+            "id": 2,
+            "url": "url dua",
+            "name": "kanal dua",
+            "desc": "deskripsi kanal dua",
+            "image": "img2",
+            "created_at": "4/21/2022, 2:21:56 PM",
+            "updated_at": "4/21/2022, 2:21:56 PM"
+        },
+        {
+            "id": 3,
+            "url": "url tiga",
+            "name": "kanal tiga",
+            "desc": "deskripsi kanal tiga",
+            "image": "img3",
+            "created_at": "4/22/2022, 2:21:56 PM",
+            "updated_at": "4/22/2022, 2:21:56 PM"
+        }
+    ]
+}

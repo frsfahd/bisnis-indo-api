@@ -1,0 +1,311 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "id_subcategory": 4,
+            "name_subcategory": "Nilai Tukar",
+            "desc_subcategory": null,
+            "category": 1
+        },
+        {
+            "id_subcategory": 5,
+            "name_subcategory": "Syariah",
+            "desc_subcategory": null,
+            "category": 2
+        },
+        {
+            "id_subcategory": 6,
+            "name_subcategory": "Asuransi",
+            "desc_subcategory": null,
+            "category": 2
+        },
+        {
+            "id_subcategory": 7,
+            "name_subcategory": "Perbankan",
+            "desc_subcategory": null,
+            "category": 2
+        },
+        {
+            "id_subcategory": 8,
+            "name_subcategory": "Pembiayaan",
+            "desc_subcategory": null,
+            "category": 2
+        },
+        {
+            "id_subcategory": 1,
+            "name_subcategory": "Portofolio",
+            "desc_subcategory": null,
+            "category": 1
+        },
+        {
+            "id_subcategory": 2,
+            "name_subcategory": "Korporasi",
+            "desc_subcategory": null,
+            "category": 1
+        },
+        {
+            "id_subcategory": 3,
+            "name_subcategory": "Komoditas",
+            "desc_subcategory": null,
+            "category": 1
+        },
+        {
+            "id_subcategory": 9,
+            "name_subcategory": "Analisis",
+            "desc_subcategory": null,
+            "category": 3
+        },
+        {
+            "id_subcategory": 10,
+            "name_subcategory": "Data",
+            "desc_subcategory": null,
+            "category": 3
+        },
+        {
+            "id_subcategory": 11,
+            "name_subcategory": "APBN",
+            "desc_subcategory": null,
+            "category": 4
+        },
+        {
+            "id_subcategory": 12,
+            "name_subcategory": "Pajak",
+            "desc_subcategory": null,
+            "category": 4
+        },
+        {
+            "id_subcategory": 13,
+            "name_subcategory": "Fiskal/Moneter",
+            "desc_subcategory": null,
+            "category": 4
+        },
+        {
+            "id_subcategory": 14,
+            "name_subcategory": "Ekonomi Global",
+            "desc_subcategory": null,
+            "category": 4
+        },
+        {
+            "id_subcategory": 15,
+            "name_subcategory": "Green Economy",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 16,
+            "name_subcategory": "Jelajah Pelabuhan",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 17,
+            "name_subcategory": "Manufaktur",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 18,
+            "name_subcategory": "Rintisan",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 19,
+            "name_subcategory": "Niaga dan Jasa",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 20,
+            "name_subcategory": "Teknologi / IT",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 21,
+            "name_subcategory": "Energi",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 22,
+            "name_subcategory": "Infrastruktur",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 23,
+            "name_subcategory": "Properti",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 24,
+            "name_subcategory": "Transportasi & Logistik",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 25,
+            "name_subcategory": "Otomotif",
+            "desc_subcategory": null,
+            "category": 5
+        },
+        {
+            "id_subcategory": 26,
+            "name_subcategory": "Peluang Bisnis",
+            "desc_subcategory": null,
+            "category": 6
+        },
+        {
+            "id_subcategory": 27,
+            "name_subcategory": "Tips Bisnis",
+            "desc_subcategory": null,
+            "category": 6
+        },
+        {
+            "id_subcategory": 28,
+            "name_subcategory": "Manajemen",
+            "desc_subcategory": null,
+            "category": 6
+        },
+        {
+            "id_subcategory": 29,
+            "name_subcategory": "Politik",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 30,
+            "name_subcategory": "Hukum",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 31,
+            "name_subcategory": "Humaniora",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 32,
+            "name_subcategory": "Wilayah",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 33,
+            "name_subcategory": "Tokoh",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 34,
+            "name_subcategory": "Internasional",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 35,
+            "name_subcategory": "Sains",
+            "desc_subcategory": null,
+            "category": 7
+        },
+        {
+            "id_subcategory": 36,
+            "name_subcategory": "Headline",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 37,
+            "name_subcategory": "Insight",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 38,
+            "name_subcategory": "Orang-Orang",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 39,
+            "name_subcategory": "Kekayaan dan Keluarga",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 40,
+            "name_subcategory": "Digital",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 41,
+            "name_subcategory": "Autovaganza",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 42,
+            "name_subcategory": "Kesehatan",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 43,
+            "name_subcategory": "Trend",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 44,
+            "name_subcategory": "Perjalanan dan Makanan",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 45,
+            "name_subcategory": "Seni dan Budaya",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 46,
+            "name_subcategory": "Design",
+            "desc_subcategory": null,
+            "category": 8
+        },
+        {
+            "id_subcategory": 47,
+            "name_subcategory": "Spektrum",
+            "desc_subcategory": null,
+            "category": 9
+        },
+        {
+            "id_subcategory": 48,
+            "name_subcategory": "Ekspresi",
+            "desc_subcategory": null,
+            "category": 9
+        },
+        {
+            "id_subcategory": 49,
+            "name_subcategory": "Beranda",
+            "desc_subcategory": null,
+            "category": 9
+        },
+        {
+            "id_subcategory": 50,
+            "name_subcategory": "Tajuk Rencana",
+            "desc_subcategory": null,
+            "category": 9
+        },
+        {
+            "id_subcategory": 51,
+            "name_subcategory": "Cakrawala",
+            "desc_subcategory": null,
+            "category": 9
+        }
+    ]
+}

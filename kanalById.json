@@ -1,0 +1,21 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "name_category": "Pasar",
+            "name_subcategory": "Nilai Tukar"
+        },
+        {
+            "name_category": "Pasar",
+            "name_subcategory": "Portofolio"
+        },
+        {
+            "name_category": "Pasar",
+            "name_subcategory": "Korporasi"
+        },
+        {
+            "name_category": "Pasar",
+            "name_subcategory": "Komoditas"
+        }
+    ]
+}
