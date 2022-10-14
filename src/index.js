@@ -8,9 +8,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // app.use(express.json());
-app.use('/api/categories', kanalRoutes);
-app.use('/api/subcategories', subKanalRoutes);
-app.use('/api/contents', kontenRoutes);
+app.use('/categories', kanalRoutes);
+app.use('/subcategories', subKanalRoutes);
+app.use('/contents', kontenRoutes);
 
 app.listen(PORT, () => {
     console.log(`API is listening on port ${PORT}`);
