@@ -1,5 +1,5 @@
 import express from 'express';
-import * as cors from 'cors';
+import cors from 'cors';
 
 import { route as kanalRoutes } from './routes/kanalRoutes.js';
 import { route as kontenRoutes } from './routes/kontenRoutes.js';
